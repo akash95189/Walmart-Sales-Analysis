@@ -54,7 +54,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 ## Future Enhancements
 
 Possible extensions to this project:
-- Integration with a dashboard tool (e.g., Power BI or Tableau) for interactive visualization.
 - Additional data sources to enhance analysis depth.
 - Integration of Machine Learning Algorithm to make future sales prediction with other parameters.
 ---
